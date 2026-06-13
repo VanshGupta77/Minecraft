@@ -15,7 +15,7 @@ A Minecraft-inspired game built from scratch using C++. No game engine — pure 
 ## How to Run
 1. Clone the repo
 2. Compile using g++:
-```cpp
+```
 g++ main.cpp -o minecraft
 ```
 3. Run:
